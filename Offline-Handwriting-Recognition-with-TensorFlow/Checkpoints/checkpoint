@@ -1,0 +1,6 @@
+model_checkpoint_path: "checkpoint_epoch_30000_ler_0.158107964967142.ckpt"
+all_model_checkpoint_paths: "checkpoint_epoch_26150_ler_0.16059090985425678.ckpt"
+all_model_checkpoint_paths: "checkpoint_epoch_27400_ler_0.15915638256412773.ckpt"
+all_model_checkpoint_paths: "checkpoint_epoch_28300_ler_0.15833245438879373.ckpt"
+all_model_checkpoint_paths: "checkpoint_epoch_29550_ler_0.15826426603555147.ckpt"
+all_model_checkpoint_paths: "checkpoint_epoch_30000_ler_0.158107964967142.ckpt"
